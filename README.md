@@ -1,4 +1,4 @@
-# CoffeeHouse-AndroidAPP
+# CoffeeHouse-AndroidApp
 
 **Coffee House** is single screen app that displays information about a fictional small business, which includes 
 "Description of the Business", "Avaliable Menu", "Contact information", " Location Address" and "Hours of operation".
