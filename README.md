@@ -16,3 +16,6 @@
 </ul>
 
 ## Screenshots of App
+<img src="https://github.com/manjirikolte/CoffeeHouse-AndroidApp/blob/master/CoffeeHouse%20ScreenShot1.jpg" width="320" height="580">   |    |  <img src="https://github.com/manjirikolte/CoffeeHouse-AndroidApp/blob/master/CoffeeHouse%20ScreenShot2.jpg" width="320" height="580">
+ 
+
