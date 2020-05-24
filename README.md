@@ -19,3 +19,5 @@
 <img src="https://github.com/manjirikolte/CoffeeHouse-AndroidApp/blob/master/CoffeeHouse%20ScreenShot1.jpg" width="320" height="580">   |    | <img src="https://github.com/manjirikolte/CoffeeHouse-AndroidApp/blob/master/CoffeeHouse%20ScreenShot2.jpg" width="320" height="580">
  
 
+## License
+License under the <a href="https://github.com/manjirikolte/CoffeeHouse-AndroidApp/blob/master/LICENSE.txt">MIT License</a>
